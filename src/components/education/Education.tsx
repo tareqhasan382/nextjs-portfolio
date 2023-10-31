@@ -7,8 +7,8 @@ const Education = () => {
       </h1>
 
       <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
-        <div className=" lg:w-full md:w-1/2 ">
-          <h1 className="text-center lg:text-2xl md:text-xl  font-bold mb-3 md:text-left">
+        <div className=" lg:w-full  ">
+          <h1 className="text-center w-full lg:text-2xl md:text-xl  font-bold mb-3 md:text-left">
             Bachelor at Computer Science
             <span className=" text-xl font-normal px-4 text-gray-500 ">
               Not Yet
